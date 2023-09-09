@@ -3,4 +3,4 @@
 
 I use GNU/Linux and mainly use open-source, self-hosted software.
 
-![Pinak's GitHub stats](https://github-readme-stats.vercel.app/api?username=pythoncrazy&theme=dracula)
+![Pinak's GitHub stats](https://github-readme-stats-peach-omega-63.vercel.app/api?username=pythoncrazy&theme=dracula)
