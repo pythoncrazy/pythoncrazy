@@ -3,4 +3,4 @@
 
 I use GNU/Linux and mainly use open-source, self-hosted software.
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![My stats!](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
