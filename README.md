@@ -2,6 +2,8 @@
 I am Pinak Paliwal a 11th grader in high school!
 I like open source software!
 
+https://waka.supersketchy.tech/api/badge/pythoncrazy/interval:today?label=today
+
 ![My Stats!](https://raw.githubusercontent.com/pythoncrazy/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![My Stats!](https://raw.githubusercontent.com/pythoncrazy/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
