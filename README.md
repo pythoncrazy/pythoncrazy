@@ -1,5 +1,5 @@
 # Hi There!
-I am Pinak Paliwal a 11th grader in San Jose!
+I am Pinak Paliwal!
 I like libre and open source software!
 
 ![](https://waka.supersketchy.tech/api/badge/pythoncrazy/interval:today?label=today)
